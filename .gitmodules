@@ -1,0 +1,3 @@
+[submodule "linguavoice"]
+	path = linguavoice
+	url = https://github.com/ydeinega/linguavoice
