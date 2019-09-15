@@ -1,3 +1,6 @@
 [submodule "linguavoice"]
 	path = linguavoice
 	url = https://github.com/ydeinega/linguavoice
+[submodule "dictionary"]
+	path = dictionary
+	url = https://github.com/ydeinega/bixby
